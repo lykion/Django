@@ -1,5 +1,8 @@
 项目配置启动过程：
+
 前提：在数据中提前建好request
+
+
 1、修改settings.py文件的DATABASES
 DATABASES = {
     'default': {
