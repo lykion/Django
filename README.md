@@ -4,6 +4,7 @@
 
 
 1、修改settings.py文件的DATABASES
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
